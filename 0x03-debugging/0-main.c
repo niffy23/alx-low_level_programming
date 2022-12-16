@@ -1,7 +1,7 @@
-#include "min.h"
+#include "main.h"
 
 /**
- * main - tests function that prints if integar is positive or negative
+ * main - Test function that prints if integar is positive or negative
  * Return: 0
  */
 
