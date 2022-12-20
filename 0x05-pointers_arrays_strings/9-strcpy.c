@@ -1,4 +1,4 @@
-#include main.h
+#include "main.h"
 
 /**
  * _strcpy - copiar el contenido de uno a otra variable
