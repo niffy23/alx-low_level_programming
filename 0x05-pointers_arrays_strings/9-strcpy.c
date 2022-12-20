@@ -3,7 +3,7 @@
 /**
  * _strcpy - copiar el contenido de uno a otra variable
  * @dest: Thid is destiny
- * @src: This is copia
+ * @src: This is the copia
  *
  * Return: This return copy
  */
