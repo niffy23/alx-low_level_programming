@@ -1,15 +1,20 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - Entry point
+ * _puts - write a function that prints a string, followed by a new line, to
+ * stdout.
  *
- * Return: Always 0 (Success)
+ * @str: This is my input string
+ *
  */
-int _putchar(void)
-	
+
+void _puts(char *str)
 {
-	_puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+        int index;
 
-
+        for (index = 0; str[index] != '\0'; index++)
+        {
+                _putchar(str[index]);
+        }
+        _putchar('\n');
 }
