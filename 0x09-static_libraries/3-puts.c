@@ -5,7 +5,7 @@
  *
  * Return: Always 0 (Success)
  */
-int main(_putchar)int
+int _putchar(void)
 	
 {
 	_puts("\"Programming is like building a multilingual puzzle");
